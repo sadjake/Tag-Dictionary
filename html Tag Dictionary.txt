@@ -1,0 +1,51 @@
+Tag Dictionary 
+
+<a>: 
+Allows a certain word or any form of symbol to be clicked on; makes a hyperlink to another website or link when clicked on the certain word(s) or symbol. 
+attributes: href
+example: <a href="https://www.crunchyroll.com/">website I like</a>
+
+<h1>: 
+Header tag, makes the text bolder and a larger size and puts it on a seperate line. Used often as a title header.
+attributes: none
+example: <h1>Joeseph Joestar</h1>
+
+<h2>:
+Header tag, makes the text bolder and a larger size and puts it on a seperate line, similar to <h1>, but slightly smaller in terms of text size.
+attributes: none
+example: <h2>List of my regrets</h2>
+
+<img>:
+A tag that allows to display a certain picture (picture must be saved as a jpg file).
+attributes: src
+example: <img src="roblox.jpg.jpg"> </img>
+
+<li>:
+Allows a sentence or small body of text to be put into a format of a point on a list on a seperate line.
+attributes: none
+example: <li>Seinen, Shonen, Shoujo Anime and Manga</li>
+
+<ol>:
+Allows a group of sentences or seperate small bodies of text to be put into a format of points on a list on a seperate line for each point, a number 
+is added in front of each point according to the order they are placed into.
+attributes: none
+example: <ol>
+<li>immaturity (although I'm immature myself)</li>
+<li>arrogance</li>
+<li>racism/hate on religion</li>
+</ol>
+
+<p>:
+Allows a body of text to be placed on a seperate space/line and in a form of a paragraph or sentence.
+attributes: none
+example: <p>I like anime.</p>
+
+<ul>: 
+Allows a group of sentences or seperate small bodies of text to be put into a format of points on a list on a seperate line for each point, a "dot" is 
+included in front of each point.
+attributes: none
+example: <ul>
+<li>Seinen, Shonen, Shoujo Anime and Manga</li>
+<li>Hip-Hop based music (rap)</li>
+<li>Man buns/top knots</li>
+</ul>
