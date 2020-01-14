@@ -11,7 +11,7 @@ attributes: href
 example: <a href="https://www.crunchyroll.com/">website I like</a>
 
 <body>:
-
+Allows a body to text to be organized like a folder, can be "opened" and "closed".
 attributes:none
 examples:
 
