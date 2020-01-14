@@ -1,9 +1,29 @@
 Tag Dictionary 
 
+<!DOCTYPE>:
+
+attributes: html
+examples:
+
 <a>: 
 Allows a certain word or any form of symbol to be clicked on; makes a hyperlink to another website or link when clicked on the certain word(s) or symbol. 
 attributes: href
 example: <a href="https://www.crunchyroll.com/">website I like</a>
+
+<body>:
+
+attributes:none
+examples:
+
+<head>:
+
+attributes:none
+examples:
+
+<html>:
+
+attributes:none
+examples:
 
 <h1>: 
 Header tag, makes the text bolder and a larger size and puts it on a seperate line. Used often as a title header.
@@ -49,3 +69,8 @@ example: <ul>
 <li>Hip-Hop based music (rap)</li>
 <li>Man buns/top knots</li>
 </ul>
+
+<title>:
+
+attributes:none
+examples:
