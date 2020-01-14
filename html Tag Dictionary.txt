@@ -71,6 +71,6 @@ example: <ul>
 </ul>
 
 <title>:
-
+Controls the name of the tab.
 attributes:none
 examples:
