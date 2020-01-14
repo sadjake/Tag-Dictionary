@@ -1,7 +1,7 @@
 Tag Dictionary 
 
 <!DOCTYPE>:
-
+Selects the version of HTML, the hmtl attribution menas you want the most recent version.
 attributes: html
 examples:
 
@@ -16,12 +16,12 @@ attributes:none
 examples:
 
 <head>:
-
+Things for your browser to think about when looking at your webpage.
 attributes:none
 examples:
 
 <html>:
-
+Marks the beginning and end of your html code.
 attributes:none
 examples:
 
