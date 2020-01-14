@@ -1,7 +1,7 @@
 Tag Dictionary 
 
 <!DOCTYPE>:
-Selects the version of HTML, the hmtl attribution menas you want the most recent version.
+Selects the version of HTML, the hmtl attribution means you want the most recent version.
 attributes: html
 examples:
 
@@ -13,17 +13,26 @@ example: <a href="https://www.crunchyroll.com/">website I like</a>
 <body>:
 Allows a body to text to be organized like a folder, can be "opened" and "closed".
 attributes:none
-examples:
+examples: <body>
+hello hi hello hi
+hi hello
+</body>
 
 <head>:
 Things for your browser to think about when looking at your webpage.
 attributes:none
-examples:
+examples: <head>
+hello hi hello hi
+hi hello
+</head>
 
 <html>:
 Marks the beginning and end of your html code.
 attributes:none
-examples:
+examples: <html>
+hello hi hello hi 
+hi hello
+</html>
 
 <h1>: 
 Header tag, makes the text bolder and a larger size and puts it on a seperate line. Used often as a title header.
@@ -73,4 +82,4 @@ example: <ul>
 <title>:
 Controls the name of the tab.
 attributes:none
-examples:
+examples: <title>First Website</title>
