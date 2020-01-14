@@ -3,7 +3,7 @@ Tag Dictionary
 <!DOCTYPE>:
 Selects the version of HTML, the hmtl attribution means you want the most recent version.
 attributes: html
-examples:
+examples: <!DOCTYPE html>
 
 <a>: 
 Allows a certain word or any form of symbol to be clicked on; makes a hyperlink to another website or link when clicked on the certain word(s) or symbol. 
